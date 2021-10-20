@@ -1,0 +1,16 @@
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.exe
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.deps.json
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.runtimeconfig.json
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.runtimeconfig.dev.json
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.dll
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\ref\consoleApp.dll
+D:\Rolsyn\consoleApp\bin\Debug\net5.0\consoleApp.pdb
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.csproj.AssemblyReference.cache
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.AssemblyInfoInputs.cache
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.AssemblyInfo.cs
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.csproj.CoreCompileInputs.cache
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.dll
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\ref\consoleApp.dll
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.pdb
+D:\Rolsyn\consoleApp\obj\Debug\net5.0\consoleApp.genruntimeconfig.cache
